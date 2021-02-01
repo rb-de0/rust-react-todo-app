@@ -1,0 +1,28 @@
+.todo-input-text-field {
+  height: 44px;
+}
+
+.todo-list-container {
+  width: 600px;
+}
+
+.todo-list {
+  background-color: #eee;
+}
+
+.todo-list-item-container {
+  height: 48px;
+}
+
+.todo-list-item {
+  width: 100%;
+}
+
+.todo-list-item-name {
+  text-transform: none !important;
+  min-width: 0 !important;
+}
+
+.todo-edit-buttons {
+  margin-left: auto;
+}
